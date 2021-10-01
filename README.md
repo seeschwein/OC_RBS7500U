@@ -8,8 +8,13 @@ Kaby Lake
 
 Internals/ changed:
 Processor Intel Core i7-7500U 2 x 2.7 - 3.5 GHz, Kaby Lake
+
 Graphics adapter  Intel HD Graphics 620
+
 Memory  16 GB LPDDR3-1866MHz
+
 Display 12.50 inch 16:9, 2560 x 1440 pixel 235 PPI, capacitive multi-touch, Sharp SHP142F (LQ125T1JW02), IGZO LED, glossy: yes
+
 Mainboard Intel Kaby Lake-U Premium PCH
+
 Storage Samsung PM951 NVMe MZVLV256, 256 GB 
