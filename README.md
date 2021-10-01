@@ -6,6 +6,22 @@ this model is a headache. furthermore, I got this unit secondhand and it already
 Basics:
 Kaby Lake
 
+The good
+
+weight 2.84 lbs / 1.29 kg
+
+form factor
+
+The bad
+
+the flickering and problematic connection
+
+The ugly
+
+the 4k display is overkill; drains battery
+
+the battery is a goner already
+
 Internals/ changed:
 Processor Intel Core i7-7500U 2 x 2.7 - 3.5 GHz, Kaby Lake
 
